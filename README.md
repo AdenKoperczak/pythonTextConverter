@@ -1,5 +1,4 @@
-
-#pythonTextConverter
+# pythonTextConverter
 
 This is a basic text converter that can change any of the below text formats into one another.
 
